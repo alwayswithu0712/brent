@@ -1,0 +1,28 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(228, 224, 224);
+  font-family: 'Times New Roman', Times, serif
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.searchform {
+  background-color: white;
+  border-style: solid;
+  border-radius: 5px;
+  border-width: 2px;
+  border-color: rgb(202, 202, 202);
+}
+
+.selectform {
+  border-radius: 3px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(202, 202, 202);
+}
